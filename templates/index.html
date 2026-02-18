@@ -23,10 +23,10 @@
                     <li class="todo-item">
                         <label>
                             <input type="checkbox">
-                            <span>{{ todo }}</span>
+                            <span>{{ todo.text }}</span>
                         </label>
                         
-                        <a href="/delete/{{ loop.index0 }}"
+                        <a href="/delete/{{ todo.id }}"
                         class="delete-btn">delete</a>
                     </li>
                 {% endfor %}
