@@ -15,3 +15,7 @@ This todo contains the options `Add to list` and `Delete from list` it also has 
 - CRUD(Creat & Delete)
 
 ---
+
+## Image 
+
+![Todo App image](image/todo_P.png)
