@@ -17,4 +17,4 @@ This todo contains the options `Add to list` and `Delete from list` it also has 
 ---
 ##Image
 
-![Todo App img] (image/todo_P.png)
+![Todo App img](image/todo_P.png)
